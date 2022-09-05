@@ -1,3 +1,5 @@
+// Factory Functions RPS
+
 const readline = require('readline-sync');
 
 function createHuman() {
